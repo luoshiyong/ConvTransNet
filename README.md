@@ -4,7 +4,7 @@ Implementation of ConvTransNet in Pytorch
 ## 1.Preprocess the data
 Command to run
 ```bash
-python preprocess.py
+python ./data_prepare/preprocess.py
 ```
 ## 2.Training
 Command to run
