@@ -1,5 +1,5 @@
 # ConvTransNet - Pytorch
-Implementation of EEDiff in Pytorch 
+Implementation of ConvTransNet in Pytorch 
 
 ## 1.Preprocess the data
 Command to run
